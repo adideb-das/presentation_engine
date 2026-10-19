@@ -4,7 +4,7 @@ Master playbook. Self-contained: everything a new AI needs is in this file.
 
 ## 0. Evidence base and labels
 
-This system was reconstructed from one project (October 2026): a 45–50 minute, three-person, graded materials seminar at TU Ilmenau based on the review *Van der Waals materials for energy-efficient electronic devices* (Nat. Rev. Mater., 2026). Deliverables were a single speaker's section (.pptx), a shared team template (.pptx), and then the full 48-slide team deck (.pptx).
+This system was reconstructed from various projects. Deliverables were a single speaker's section (.pptx), a shared team template (.pptx), and then the full 48-slide team deck (.pptx).
 
 What the user actually said or supplied:
 
@@ -12,7 +12,6 @@ What the user actually said or supplied:
 - Saved preferences: concrete, actionable output over strategic preamble or unsolicited alternatives; terse, direct style.
 - A saved TU Ilmenau slide-style specification (Section 6).
 - The course rubric: 45–50 min per topic, 2–3 people, 15–25 min each, find papers beyond the review, slides 50% (font size, image size, logic construction), speech 40%, discussion 10%.
-- Choices: team of 3; the user takes "the most difficult" part; PowerPoint format; presentation in January 2027.
 - Approval: "these are perfect!" (for the section deck and template), then "give the whole presentation, it's best for the group".
 
 What did NOT happen: no slide was rejected or corrected. So most structural rules below are design choices the assistant made that the user approved as a whole once.
